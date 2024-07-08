@@ -1,0 +1,1 @@
+r,l,t,reward_step,action,reward,ep_block_prob,ep_accepted_requests,avg_deployment_cost,avg_total_latency,avg_access_latency,avg_processing_latency,avg_rtt,avg_dl,avg_ul,avg_jitter,gini,telia_requests,telenor_requests,ice_requests,executionTime
